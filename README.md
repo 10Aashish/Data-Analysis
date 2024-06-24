@@ -1,2 +1,2 @@
 # My-1st
-This this my first project
+These are my projects and learnings :) 
